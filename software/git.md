@@ -40,11 +40,10 @@
             - Files here are tracked but not yet saved (commit) in the repository.
             - syntax: `git add file1 file2 ...` command adds files to staging area
             - `git commit -m "your message"`, commit changes from staging area (default behavior)
-            - `git commit -a -m "your message"`, commit changes from both working directory and staging area.
+            - `git commit -a -m "your message"`, commit changes from both working directory and staging area (Does not commit untracked/new files).
     7. `push`:
         - git command used to save (or upload) changes to the remote repository
         - e.g. `git push`
-        - ![git push](images/gitpush.gif)
     8. `pull`:
         - Fetch changes from the remote and sync with local
         - e.g. `git pull`

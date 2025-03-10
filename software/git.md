@@ -44,6 +44,7 @@
     7. `push`:
         - git command used to save (or upload) changes to the remote repository
         - e.g. `git push`
+        - ![git push](images/gitpush.gif)
     8. `pull`:
         - Fetch changes from the remote and sync with local
         - e.g. `git pull`

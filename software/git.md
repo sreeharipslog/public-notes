@@ -29,7 +29,7 @@
         - git command used to save(or record) changes in local repository
         - e.g. `git commit -a -m "your message"`, this saves all unsaved changes to local repository. (direct commit without stage)
         - IMPORTANT: You should always commit for git to manage that file.
-        - When you commit, a history is created (commit id), which is used for time travel😉.
+        - When you commit a file, a history is created (commit id), which is used for time travel😉.
     6. [Working Directory and Staging area](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository):
         - These are logical concept used to manage changes
         - In Git, when you make changes to files, they go through different areas before being saved permanently(via `commit`) in the repository. The two key areas are: Working Directory and Staging Area (Index)

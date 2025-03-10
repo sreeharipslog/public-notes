@@ -1,8 +1,11 @@
 # Ignore everything
 *
 
-# But allow markdown files
-!**/*.md 
+# Allow all directories to be checked
+!*/
+
+# Allow markdown files inside subdirectories
+!*.md
 
 # Allow the .gitignore file itself
 !.gitignore

@@ -4,7 +4,7 @@
 1. What is [Git](https://git-scm.com/book/en/v2)?
     - Git is a "version control system (VCS)". VCS is a program to track file changes. e.g. Git, SVN, mercury, helix etc
     - It was created by Linux Torvalds (creator of Linux) during linux kernel development
-    - It is tool to track/manage changes to files and lets you travel back and forth in time (v1 to v2, v2 to v1 etc)
+    - It is a tool to track/manage changes to files and lets you travel back and forth in time (v1 to v2, v2 to v1 etc)
 2. Why use git?
    - Without git, you will be creating duplicate copies/folders for each change like v1, v2, v3 etc
    - At any point a git repository will has only 1 copy of a file. Using various git commands and concepts you can changes this file to any version of choice.

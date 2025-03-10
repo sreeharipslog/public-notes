@@ -5,7 +5,11 @@
 !*/
 
 # Allow markdown files inside subdirectories
-!*.md
+!*.md 
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
 
 # Allow the .gitignore file itself
 !.gitignore

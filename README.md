@@ -1,2 +1,2 @@
 # public-notes
-My collections of notes, made for public
+My collections of markdown notes, made for public

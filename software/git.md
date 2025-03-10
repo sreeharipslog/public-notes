@@ -54,6 +54,7 @@
         - local branches track remote branches, like repository
         - remote branches have format like `origin/<branch_name>
         - A very powerful concept, that enable collaboration in git
+        - ![git branch](images/gitbranch.png)
     10. `merge`:
         - command to move changes from one branch to another.
         - e.g. you can merge changes from branch A to `main`

@@ -2,7 +2,7 @@
 *
 
 # But allow markdown files
-!*.md 
+!**/*.md 
 
 # Allow the .gitignore file itself
 !.gitignore
